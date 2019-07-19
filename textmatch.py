@@ -36,8 +36,9 @@ while directory_paths_list!=[]:
 			match(path,pattern)
 	directory_paths_list.remove(directory_path)		
 
+'''
 print('**********')
 print('match_results:')
 for i in match_results:
 	print(i)
-		
+'''	
